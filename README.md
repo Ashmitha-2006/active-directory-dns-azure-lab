@@ -29,113 +29,95 @@ The focus is on setting up **Active Directory Domain Services (AD DS)** and **DN
 * DNS Server
 
 ---
+📸 Implementation & Screenshots
 
-# 📸 Implementation & Screenshots
-
-## 🖥️ Initial System Configuration
-
-![System](./screenshots/screenshot1.png)
-Displays initial system configuration including IP settings and system status of the Azure Virtual Machine.
+## 🖥️ Initial System Configuration  
+![System](./screenshot1.png)  
+Displays initial system configuration of the Azure VM, including IP settings and system status before setup.
 
 ---
 
-## 🌐 DNS Server Installation
-
-![DNS](./screenshots/screenshot2.png)
+## 🌐 DNS Server Installation  
+![DNS](./screenshot2.png)  
 Shows installation of the DNS Server role, enabling domain name resolution within the network.
 
 ---
 
-## 🧠 Active Directory Installation
-
-![AD](./screenshots/screenshot3.png)
+## 🧠 Active Directory Installation  
+![AD](./screenshot3.png)  
 Demonstrates installation of Active Directory Domain Services (AD DS).
 
 ---
 
-## 🌲 Domain Controller Setup
-
-![Domain](./screenshots/screenshot4.png)
-Illustrates creation of a new domain forest and domain controller configuration.
-
----
-
-## ⚙️ Domain Configuration
-
-![Config](./screenshots/screenshot5.png)
-Shows domain configuration settings including functional levels and system paths.
+## 🌲 Domain Controller Setup  
+![Domain](./screenshot4.png)  
+Illustrates creation of a new domain forest and promotion of the server to a Domain Controller.
 
 ---
 
-## 🏢 Organizational Unit Creation
-
-![OU](./screenshots/screenshot6.png)
-Displays creation of Organizational Units for structured management.
+## ⚙️ Domain Configuration  
+![Config](./screenshot5.png)  
+Shows domain configuration settings including functional levels and directory paths.
 
 ---
 
-## 🔐 Delegation of Control
+## 🏢 Organizational Unit Creation  
+![OU](./screenshot6.png)  
+Displays creation of Organizational Units (OUs) for structured management of users.
 
-![Delegation](./screenshots/screenshot7.png)
+---
+
+## 🔐 Delegation of Control  
+![Delegation](./screenshot7.png)  
 Demonstrates delegation of administrative permissions within an OU.
 
 ---
 
-## 👤 User Account Creation
-
-![User](./screenshots/screenshot8.png)
-Shows creation of a user account in Active Directory.
-
----
-
-## ✏️ User Configuration
-
-![User Edit](./screenshots/screenshot9.png)
-Demonstrates modification of user account details and properties.
+## 👤 User Account Creation  
+![User](./screenshot8.png)  
+Shows creation of a new user account in Active Directory.
 
 ---
 
-## 📂 User Organization
-
-![Move](./screenshots/screenshot10.png)
-Shows movement of users into Organizational Units.
-
----
-
-## ⚙️ Additional Configuration
-
-![Extra](./screenshots/screenshot11.png)
-Represents additional configuration and verification steps.
+## ✏️ User Configuration  
+![User Edit](./screenshot9.png)  
+Demonstrates modification of user account details such as name and login credentials.
 
 ---
 
-## 🔍 System Verification
-
-![Verify](./screenshots/screenshot12.png)
-Shows verification of successful setup and configuration.
-
----
-
-## 🧩 Final Configuration
-
-![Final](./screenshots/screenshot13.png)
-Illustrates final stages of environment setup.
+## 📂 User Organization  
+![Move](./screenshot10.png)  
+Shows moving user accounts into Organizational Units for better structure.
 
 ---
 
-## 📊 Environment Status
+## ⚙️ Additional Configuration  
+![Extra](./screenshot11.png)  
+Represents additional configuration steps during setup.
 
-![Status](./screenshots/screenshot14.png)
+---
+
+## 🔍 System Verification  
+![Verify](./screenshot12.png)  
+Shows verification of successful installation and configuration.
+
+---
+
+## 🧩 Final Configuration  
+![Final](./screenshot13.png)  
+Illustrates final stages of the Active Directory setup process.
+
+---
+
+## 📊 Environment Status  
+![Status](./screenshot14.png)  
 Displays system status after completing configurations.
 
 ---
 
-## ✅ Completed Setup
-
-![Done](./screenshots/screenshot15.png)
-Represents fully configured Active Directory and DNS environment.
-
----
+## ✅ Completed Setup  
+![Done](./screenshot15.png)  
+Represents the fully configured Active Directory and DNS environment.
 
 # 🚨 Key Outcomes
 
