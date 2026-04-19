@@ -1,9 +1,5 @@
 # Active Directory & DNS Configuration on Azure
 
-**Course:** NIT2122 — Network Infrastructure and Technologies  
-**Assessment:** Lab Assessment 1 — Lab 3  
-**Platform:** Microsoft Azure (Windows Server 2016)  
-**Date Completed:** November 20, 2025
 
 ---
 
